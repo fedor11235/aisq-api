@@ -1,0 +1,6 @@
+-- CreateTable
+CREATE TABLE "Coffee" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "size" TEXT NOT NULL,
+    "count" INTEGER NOT NULL
+);
